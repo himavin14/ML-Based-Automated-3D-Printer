@@ -1,10 +1,6 @@
 # ML-Based-Automated-3D-Printer
 Automated 3D printer monitoring and image capture using Python, OpenCV and Raspberry Pi GPIO
 
-# ML-Based Automated 3D Printer
-
-An automated 3D printing monitoring system using Python, OpenCV and Raspberry Pi GPIO.
-
 # Project Overview:
 This project aims to automate the monitoring of 3D printer by capturing images of the printed output using multiple cameras and using machine learning to analyze print quality and optimize printing parameters.
 
